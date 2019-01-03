@@ -7,7 +7,7 @@ public class play : MonoBehaviour {
 	// Use this for initialization
 	void Start () {
         print("kjdfhe");
-        print("zkjfghuikj");
+        //print("zkjfg");
 	}
 	
 	// Update is called once per frame
