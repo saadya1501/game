@@ -6,7 +6,7 @@ public class Hello : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
-      
+        Debug.Log("ilkzfjois");
         print("say");
         Debug.Log("s.,ndflks");
 	}
