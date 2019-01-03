@@ -6,7 +6,8 @@ public class play : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
-        print("kjdfhe");
+        print("kjdf");//del
+        Debug.Log("zJfyguw");//add
         //print("zkjfg");
 	}
 	
